@@ -1,0 +1,59 @@
+body{
+    background-color: #001f3f;
+}
+
+.topbar{
+    padding:25px;
+    background-color:#AAAAAA ;
+}
+
+.logo{
+    color:#800020 ;
+    font-weight: bolder;
+    font-family: 'Pacifico', cursive;
+}
+
+.button{
+    display:flex;
+    padding:30px 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: #800020;
+    color:#AAAAAA;
+    font-weight: bolder;
+}
+
+.workspace1{
+    display:flex;
+    padding:50px 50px;
+    background-color: #0047AB;
+    margin-top: 15px;
+    justify-content: space-between;
+    justify-content: center;
+}
+
+.timer{
+    display:flex;
+    justify-content:center;
+    margin-top:10px;
+    font-weight:bolder;
+    font-size:50px;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+.workspace2{
+    display:flex;
+    padding:50px 50px;
+    background-color: #0047AB;
+    margin-top: 15px;
+    justify-content: space-between;
+    justify-content: center;
+}
+
+
+
+
+
+
+
